@@ -1,5 +1,4 @@
 /*深藍色變數*/
-
 body {
 	color:#2f5572;
 	max-width:80%;
@@ -11,4 +10,5 @@ body {
 .box a{
 	display: block;
 	padding:10px;
+	color:#FF88C2;
 }

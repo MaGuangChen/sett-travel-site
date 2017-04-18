@@ -1,5 +1,5 @@
 $mainBlue: #2f5572;/*深藍色變數*/
-
+$helloColor: #FF88C2;
 body {
 	color:$mainBlue;
 	max-width:80%;
@@ -9,6 +9,7 @@ body {
 .box{
 	a{
 		display: block;
-		padding:10px;
+		padding:10px; 
+		color:$helloColor;
 	}
 }
